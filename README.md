@@ -16,5 +16,5 @@ Python e caso queira editar, recomendo o uso do Visual Studio Code.
 2. Agora se você tiver o python baixado, clique e iniciara o aplicativo.
 3. Pronto! Apartir de agora você pode modificar e usar como quiser.
 
-#Bibliotecas utilizadas:
+# Bibliotecas utilizadas:
 TkThinker (Para criar a interface grafica) https://www.devmedia.com.br/tkinter-interfaces-graficas-em-python/33956
