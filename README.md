@@ -9,9 +9,12 @@ Projeto em funcionamento:
 
 # Pré-requisitos
 
-Git, Python e caso queira editar, recomendo o uso do Visual Studio Code.
+Python e caso queira editar, recomendo o uso do Visual Studio Code.
 
 # instruções:
 1. Instalar o main.py em seu pc;
-2. Abrir com python: "python main.py".
+2. Agora se você tiver o python baixado, clique e iniciara o aplicativo.
 3. Pronto! Apartir de agora você pode modificar e usar como quiser.
+
+#Bibliotecas utilizadas:
+TkThinker (Para criar a interface grafica) https://www.devmedia.com.br/tkinter-interfaces-graficas-em-python/33956
