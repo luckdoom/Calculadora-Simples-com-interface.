@@ -9,7 +9,7 @@ Projeto em funcionamento:
 
 # Pré-requisitos
 
-Python e caso queira editar, recomendo o uso do Visual Studio Code.
+Python e caso queira editar recomendo o uso do Visual Studio Code.
 
 # instruções:
 1. Instalar o main.py em seu pc;
