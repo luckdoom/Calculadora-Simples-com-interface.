@@ -10,3 +10,4 @@ Projeto em funcionamento:
 # Pré-requisitos
 
 Git, Python e caso queira editar, recomendo o uso do Visual Studio Code.
+
