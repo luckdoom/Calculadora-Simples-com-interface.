@@ -11,3 +11,7 @@ Projeto em funcionamento:
 
 Git, Python e caso queira editar, recomendo o uso do Visual Studio Code.
 
+# instruções:
+1. Instalar o main.py em seu pc;
+2. Abrir com python: "python main.py".
+3. Pronto! Apartir de agora você pode modificar e usar como quiser.
